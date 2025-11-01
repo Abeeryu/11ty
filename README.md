@@ -69,3 +69,9 @@ package.json           – Dependencies en scripts
 Dit kan met Netlify of Vercel. Ik heb vercel gebruikt.
 
 Bekijk de live website
+
+## Bronnen
+
+https://11ty.rocks/posts/create-your-first-basic-11ty-website/
+
+https://www.11ty.dev/docs/languages/
