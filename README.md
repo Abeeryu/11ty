@@ -68,7 +68,7 @@ package.json           – Dependencies en scripts
 
 Dit kan met Netlify of Vercel. Ik heb vercel gebruikt.
 
-Bekijk de live website
+Bekijk de live website (https://sage-marzipan-89a1b6.netlify.app/)
 
 ## Bronnen
 
