@@ -75,3 +75,5 @@ Bekijk de live website (https://sage-marzipan-89a1b6.netlify.app/)
 https://11ty.rocks/posts/create-your-first-basic-11ty-website/
 
 https://www.11ty.dev/docs/languages/
+
+https://github.com/karateschooljohnsmit
