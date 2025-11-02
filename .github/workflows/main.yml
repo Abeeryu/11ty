@@ -27,7 +27,10 @@ jobs:
       - name: Install dependencies & build
         run: |
           npm install
-          npm run build          
+          npm run build   
+
+        name: List files for debug
+        run: ls -R      # <-- this is your debug step       
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
